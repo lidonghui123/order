@@ -2,7 +2,200 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf2ee751-873e-48fd-a575-4d2659732bfd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lesson/controller/OrderEntryControllor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lesson/dao/CategoryDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lesson/dao/MenuDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lesson/model/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lesson/model/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lesson/service/CategoryManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lesson/service/MenuManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lesson/service/impl/CategoryManagerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/lesson/service/impl/MenuManagerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/spring/context-dispatcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/classes/com/lesson/controller/OrderEntryControllor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/classes/com/lesson/dao/CategoryDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/classes/com/lesson/dao/MenuDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/classes/com/lesson/model/Category.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/classes/com/lesson/model/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/classes/com/lesson/service/CategoryManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/classes/com/lesson/service/MenuManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/classes/com/lesson/service/impl/CategoryManagerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/classes/com/lesson/service/impl/MenuManagerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/classes/spring/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/classes/spring/context-dispatcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/commons-logging-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/log4j-1.2.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/mybatis-3.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/mybatis-spring-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/mysql-connector-java-5.1.39.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/spring-aop-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/spring-beans-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/spring-context-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/spring-core-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/spring-expression-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/spring-jdbc-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/spring-tx-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/spring-webmvc-4.0.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/avatars/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/avatars/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/avatars/avatar1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/avatars/avatar2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/avatars/avatar3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/avatars/avatar4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/avatars/avatar5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/avatars/profile-pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/avatars/user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/ace-ie.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/ace-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/ace-skins.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/ace.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/bootstrap-editable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/bootstrap-timepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/chosen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/colorbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/colorpicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/daterangepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/dropzone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/font-awesome-ie7.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/fullcalendar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/jquery-ui-1.10.3.custom.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/jquery-ui-1.10.3.full.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/jquery.gritter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/css/ui.jqgrid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/font/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/images/gallery/image-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/images/gallery/image-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/images/gallery/image-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/images/gallery/image-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/images/gallery/image-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/images/gallery/image-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/images/gallery/thumb-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/images/gallery/thumb-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/images/gallery/thumb-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/images/gallery/thumb-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/images/gallery/thumb-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/images/gallery/thumb-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/ace-elements.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/ace-extra.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/ace.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/bootbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/bootstrap-colorpicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/bootstrap-tag.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/bootstrap-wysiwyg.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/chosen.jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/date-time/bootstrap-datepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/date-time/bootstrap-timepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/date-time/daterangepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/date-time/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/dropzone.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/excanvas.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/flot/jquery.flot.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/flot/jquery.flot.pie.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/flot/jquery.flot.resize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/fuelux/data/fuelux.tree-sampledata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/fuelux/fuelux.spinner.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/fuelux/fuelux.tree.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/fuelux/fuelux.wizard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jqGrid/i18n/grid.locale-en.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jqGrid/jquery.jqGrid.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery-2.0.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery-ui-1.10.3.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery-ui-1.10.3.full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.autosize.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.colorbox-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.easy-pie-chart.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.gritter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.hotkeys.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.inputlimiter.1.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.knob.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.maskedinput.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.mobile.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.nestable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.slimscroll.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.sparkline.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.ui.touch-punch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/markdown/bootstrap-markdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/markdown/markdown.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/typeahead-bs2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/x-editable/ace-editable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/assets/js/x-editable/bootstrap-editable.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/jsp/categoryAdd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/jsp/categoryEdit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/jsp/categoryList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/jsp/categoryList_blank.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/jsp/common/commonStyle.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/jsp/common/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/jsp/common/leftTree.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/jsp/menuAdd.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/jsp/menuAdd_blank.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/jsp/menuEdit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/jsp/menuList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/order/jsp/menuList_blank.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-03-31" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-04-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/index_jsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/jsp/categoryAdd_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/jsp/categoryAdd_jsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/jsp/categoryEdit_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/jsp/categoryEdit_jsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/jsp/categoryList_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/jsp/categoryList_jsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/jsp/menuAdd_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/jsp/menuAdd_jsp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/jsp/menuList_jsp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/jsp/menuList_jsp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/common/header.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/jsp/common/header.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +222,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -52,29 +246,57 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585642994173</updated>
-      <workItem from="1585642997529" duration="15765000" />
+      <workItem from="1585642997529" duration="19441000" />
     </task>
+    <task id="LOCAL-00001" summary="&quot;20200401提交&quot;">
+      <created>1585719804218</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585719804218</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;20200401提交&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;20200401提交&quot;" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1501" height="357" key="GridCell.Tab.0.bottom" timestamp="1585704456668">
+    <state x="520" y="196" key="CommitChangelistDialog2" timestamp="1585719802244">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1501" height="357" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585704456668" />
-    <state width="1501" height="357" key="GridCell.Tab.0.center" timestamp="1585704456667">
+    <state x="520" y="196" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585719802244" />
+    <state x="1178" y="419" key="FileChooserDialogImpl" timestamp="1585733708464">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1501" height="357" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585704456667" />
-    <state width="1501" height="357" key="GridCell.Tab.0.left" timestamp="1585704456667">
+    <state x="1178" y="419" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585733708464" />
+    <state width="1501" height="315" key="GridCell.Tab.0.bottom" timestamp="1585733733860">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1501" height="357" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585704456667" />
-    <state width="1501" height="357" key="GridCell.Tab.0.right" timestamp="1585704456667">
+    <state width="1501" height="315" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585733733860" />
+    <state width="1501" height="315" key="GridCell.Tab.0.center" timestamp="1585733733860">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1501" height="357" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585704456667" />
+    <state width="1501" height="315" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585733733860" />
+    <state width="1501" height="315" key="GridCell.Tab.0.left" timestamp="1585733733860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1501" height="315" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585733733860" />
+    <state width="1501" height="315" key="GridCell.Tab.0.right" timestamp="1585733733860">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1501" height="315" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585733733860" />
+    <state x="532" y="100" key="SettingsEditor" timestamp="1585733712522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="100" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585733712522" />
+    <state x="560" y="339" key="Vcs.Push.Dialog.v2" timestamp="1585719818816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="339" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585719818816" />
   </component>
 </project>

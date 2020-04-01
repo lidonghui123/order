@@ -20,8 +20,8 @@ killTomcat() #这段是停止tomcat，抽象成方法函数
       kill -9 $pid
     fi
 }
-cd $PROJ_PATH/order  #当前的执行语句，需要进到工程的根目录
-mvn clean install  #执行maven构建
+cd $PROJ_PATH/order
+mvn clean install
 
 # 停tomcat
 killTomcat
