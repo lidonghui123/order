@@ -9,7 +9,7 @@
 # export TOMCAT_APP_PATH=tomcat在部署机器上的路径
 
 ### base 函数
-killTomcat()
+killTomcat() #这段是停止tomcat，抽象成方法函数
 {
     pid=`ps -ef|grep tomcat|grep java|awk '{print $2}'`
     echo "tomcat Id list :$pid"
@@ -20,8 +20,8 @@ killTomcat()
       kill -9 $pid
     fi
 }
-cd $PROJ_PATH/order
-mvn clean install
+cd $PROJ_PATH/order  #当前的执行语句，需要进到工程的根目录
+mvn clean install  #执行maven构建
 
 # 停tomcat
 killTomcat
